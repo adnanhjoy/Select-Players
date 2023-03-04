@@ -8,3 +8,8 @@
     font-family: 'Lobster', cursive;
     font-family: 'Poppins', sans-serif;
 }
+
+.player-img {
+    height: 250px;
+    width: 100%;
+}
